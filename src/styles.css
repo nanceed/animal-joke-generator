@@ -75,6 +75,10 @@ form {
     box-shadow: var(--box-shadow);
 }
 
+.animal-joke strong {
+    color: var(--primary-color);
+}
+
 footer {
     text-align: center;
     font-size: 11px;
